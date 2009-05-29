@@ -1,0 +1,17 @@
+---
+name: typo2mt
+version: 0.02
+author: []
+abstract: takes a typo database and converts it to a Movable Type import file
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: http://git.pioto.org/gitweb/typo2mt.git
+configure_requires:
+  Module::Build: 0.28
+build_requires:
+  Module::Build: 0.28
+generated_by: Module::Build version 0.3
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2

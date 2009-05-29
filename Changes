@@ -1,0 +1,17 @@
+commit 7e599eda8927458885404d47fc49bc2b621f4cbd
+Author: Mike Kelly <pioto@pioto.org>
+Date:   Fri May 29 05:41:25 2009 -0400
+
+    Add MANIFEST.SKIP
+
+ 1 files changed, 42 insertions(+), 0 deletions(-)
+
+commit 22f85ef16f5eeb9c1e0688af2651af7bf37458d4
+Author: Mike Kelly <pioto@pioto.org>
+Date:   Fri May 29 05:40:11 2009 -0400
+
+    Initial public release. Version 0.02.
+
+ 4 files changed, 247 insertions(+), 0 deletions(-)
+
+# vim: set ft=git :
